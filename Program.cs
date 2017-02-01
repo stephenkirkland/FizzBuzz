@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// FIZZBUZZ
+/// When a factor of 3 is supposed to be displayed, print out FIZZ.
+/// When a factor of 5 is supposed to be displayed, print out BUZZ.
+/// When a factor of 3 and 5 is supposed to be displayed, print out FIZZ BUZZ.
+/// </summary>
+
 namespace FizzBuzzConsole
 {
     class Program
